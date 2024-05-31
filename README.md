@@ -11,4 +11,4 @@ css ── tailwind.css
 Este proyecto utiliza Tailwind CSS a través de un enlace CDN, lo que facilita su uso sin necesidad de una configuración adicional. 
 
 # Link CSS
-// <link href="https://cdn.jsdelivr.net/npm/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+//<link href="https://cdn.jsdelivr.net/npm/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
